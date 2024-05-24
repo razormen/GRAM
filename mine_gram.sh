@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=us.ton.hashrate.to:4002
+POOL=de.ton.hashrate.to:4003
 WALLET=UQAETUP_xHhGt6SyHZ4PaU7VSmyGylLDBvZUO3hEwSWFbTpK
 PASS=x
 
